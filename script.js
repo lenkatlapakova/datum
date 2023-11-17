@@ -18,7 +18,11 @@ function displayDate({ den, mesic, rok }) {
     <p>rok  ${rok}</p>`;
 }
 
-prompt();
+promptDatum();
+
+
+
+
 
 
 
